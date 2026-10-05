@@ -1,0 +1,12 @@
+# Local reports and logs can contain device and security information.
+out/
+reports/
+*.log
+*.clixml
+*.csv
+*.zip
+
+# PowerShell/editor artifacts
+*.ps1xml
+.DS_Store
+.vscode/
